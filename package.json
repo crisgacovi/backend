@@ -1,0 +1,23 @@
+{
+"    ""name"": ""buscardor-node"","
+"    ""version"": ""1.0.0"","
+"    ""description"": ""evaluacion-final-backend"","
+"    ""main"": ""index.js"","
+"    ""scripts"": {"
+"        ""test"": ""echo \""Error: no test specified\"" && exit 1"","
+"        ""start"": ""node ./server/server.js"""
+    },
+"    ""repository"": {"
+"        ""type"": ""git"","
+"        ""url"": ""git+https://github.com/crisgacovi/backend.git"""
+    },
+"    ""author"": ""crisgacovi@hotmail.com"","
+"    ""license"": ""ISC"","
+"    ""dependencies"": {"
+"        ""body-parser"": ""^1.18.2"","
+"        ""express"": ""^4.16.2"""
+    },
+"    ""devDependencies"": {"
+"        ""nodemon"": ""^1.14.11"""
+    }
+}
